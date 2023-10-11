@@ -11,7 +11,7 @@ export default function Sidebar() {
             <div className='top_links'>
                 <div className='logo'>
                     <img src='https://storage.googleapis.com/pr-newsroom-wp/1/2018/11/Spotify_Logo_CMYK_White.png'
-                        alt='spotify logo ' />
+                        alt='spotify logo' />
                 </div>
                 <ul>
                     <li>
